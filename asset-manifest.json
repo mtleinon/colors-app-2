@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/colors-app/static/css/main.3a9dca3a.chunk.css",
-    "main.js": "/colors-app/static/js/main.4f8b4e9a.chunk.js",
-    "main.js.map": "/colors-app/static/js/main.4f8b4e9a.chunk.js.map",
-    "runtime~main.js": "/colors-app/static/js/runtime~main.7b7bc380.js",
-    "runtime~main.js.map": "/colors-app/static/js/runtime~main.7b7bc380.js.map",
-    "static/css/2.e337d257.chunk.css": "/colors-app/static/css/2.e337d257.chunk.css",
-    "static/js/2.253319ce.chunk.js": "/colors-app/static/js/2.253319ce.chunk.js",
-    "static/js/2.253319ce.chunk.js.map": "/colors-app/static/js/2.253319ce.chunk.js.map",
-    "index.html": "/colors-app/index.html",
-    "precache-manifest.efa0af7d2d0848f3751dcf2e9766ad5c.js": "/colors-app/precache-manifest.efa0af7d2d0848f3751dcf2e9766ad5c.js",
-    "service-worker.js": "/colors-app/service-worker.js",
-    "static/css/2.e337d257.chunk.css.map": "/colors-app/static/css/2.e337d257.chunk.css.map",
-    "static/css/main.3a9dca3a.chunk.css.map": "/colors-app/static/css/main.3a9dca3a.chunk.css.map",
-    "static/media/listBackground.svg": "/colors-app/static/media/listBackground.88c4fc0e.svg"
+    "main.css": "/colors-app-2/static/css/main.3a9dca3a.chunk.css",
+    "main.js": "/colors-app-2/static/js/main.6a976ca7.chunk.js",
+    "main.js.map": "/colors-app-2/static/js/main.6a976ca7.chunk.js.map",
+    "runtime~main.js": "/colors-app-2/static/js/runtime~main.1c0eabf5.js",
+    "runtime~main.js.map": "/colors-app-2/static/js/runtime~main.1c0eabf5.js.map",
+    "static/css/2.e337d257.chunk.css": "/colors-app-2/static/css/2.e337d257.chunk.css",
+    "static/js/2.253319ce.chunk.js": "/colors-app-2/static/js/2.253319ce.chunk.js",
+    "static/js/2.253319ce.chunk.js.map": "/colors-app-2/static/js/2.253319ce.chunk.js.map",
+    "index.html": "/colors-app-2/index.html",
+    "precache-manifest.91f0122a135df076a9bac8dd6dcd02e3.js": "/colors-app-2/precache-manifest.91f0122a135df076a9bac8dd6dcd02e3.js",
+    "service-worker.js": "/colors-app-2/service-worker.js",
+    "static/css/2.e337d257.chunk.css.map": "/colors-app-2/static/css/2.e337d257.chunk.css.map",
+    "static/css/main.3a9dca3a.chunk.css.map": "/colors-app-2/static/css/main.3a9dca3a.chunk.css.map",
+    "static/media/listBackground.svg": "/colors-app-2/static/media/listBackground.88c4fc0e.svg"
   }
 }
